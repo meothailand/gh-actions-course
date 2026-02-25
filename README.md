@@ -1,2 +1,2 @@
 # gh-actions-course
-GH actions samples, exerises
+GH actions samples, exercises 
